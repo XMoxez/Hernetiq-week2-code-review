@@ -1,2 +1,2 @@
-# Hernetiq-week2-code-review
+# Hernetiq-Week-2-Code-Review
 Week-2-Code-Review.md
